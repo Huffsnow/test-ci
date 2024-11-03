@@ -1,4 +1,5 @@
 package main
+
 import "fmt"
 
 func main() {
@@ -6,5 +7,5 @@ func main() {
 }
 
 func Soma(a int, b int) int {
-	return a + b
+	return a + b - 1
 }
